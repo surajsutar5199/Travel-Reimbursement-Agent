@@ -1,0 +1,46 @@
+[
+  {
+    "employee_id": "EMP001",
+    "employee_name": "Rahul Sharma",
+    "trip_type": "Domestic",
+    "category": "Hotel",
+    "amount": 4500,
+    "date": "2026-06-25",
+    "vendor": "Taj Hotel",
+    "receipt_attached": true,
+    "manager_approval": false
+  },
+  {
+    "employee_id": "EMP002",
+    "employee_name": "Priya Patil",
+    "trip_type": "Domestic",
+    "category": "Meal",
+    "amount": 1800,
+    "date": "2026-06-24",
+    "vendor": "Barbeque Nation",
+    "receipt_attached": true,
+    "manager_approval": false
+  },
+  {
+    "employee_id": "EMP003",
+    "employee_name": "Amit Verma",
+    "trip_type": "Domestic",
+    "category": "Taxi",
+    "amount": 1200,
+    "date": "2026-06-23",
+    "vendor": "Uber",
+    "receipt_attached": false,
+    "manager_approval": false
+  },
+  {
+    "employee_id": "EMP004",
+    "employee_name": "Sneha Kulkarni",
+    "trip_type": "International",
+    "category": "Hotel",
+    "amount": 15000,
+    "date": "2026-06-22",
+    "vendor": "Marriott",
+    "receipt_attached": true,
+    "manager_approval": false
+  }
+]

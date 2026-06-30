@@ -1,0 +1,18 @@
+[
+  {
+    "claim_id": "CLM1001",
+    "employee_id": "EMP005",
+    "category": "Hotel",
+    "amount": 4200,
+    "date": "2026-06-20",
+    "status": "Approved"
+  },
+  {
+    "claim_id": "CLM1002",
+    "employee_id": "EMP006",
+    "category": "Taxi",
+    "amount": 900,
+    "date": "2026-06-21",
+    "status": "Approved"
+  }
+]

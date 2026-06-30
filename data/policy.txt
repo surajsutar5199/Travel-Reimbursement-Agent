@@ -1,0 +1,73 @@
+===============================
+TRAVEL REIMBURSEMENT POLICY
+===============================
+
+1. Hotel
+- Maximum reimbursement: ₹5000 per day
+- Receipt is mandatory.
+
+2. Meal
+- Maximum reimbursement: ₹1000 per day
+- Receipt is mandatory.
+
+3. Taxi
+- Maximum reimbursement: ₹1500 per day
+- Receipt is mandatory.
+
+4. Flight
+- Only Economy Class tickets are eligible.
+- Business Class and First Class are not reimbursable.
+- Receipt is mandatory.
+
+5. Train
+- AC Chair Car and Sleeper Class are reimbursable.
+- Receipt is mandatory.
+
+6. Manager Approval
+- Claims above ₹10,000 require manager approval.
+- If manager approval is missing, send the claim for Manual Review.
+
+7. Duplicate Claims
+- Duplicate reimbursement claims are not allowed.
+- If a duplicate claim is detected, reject the claim.
+
+8. Missing Documents
+- If a mandatory receipt is missing, reject the claim.
+- If supporting documents are incomplete, send for Manual Review.
+
+9. Eligible Categories
+- Hotel
+- Meal
+- Taxi
+- Flight
+- Train
+
+10. Non-Eligible Categories
+- Personal shopping
+- Entertainment
+- Alcohol
+- Family expenses
+- Personal gifts
+
+11. Decision Rules
+
+Approve
+- Receipt available
+- Amount within policy limit
+- Eligible category
+- No duplicate
+- Manager approval available (if required)
+
+Partially Approve
+- Amount exceeds policy limit
+- Approve only the maximum allowed amount
+
+Reject
+- Receipt missing
+- Duplicate claim
+- Non-eligible category
+
+Manual Review
+- Missing manager approval
+- Conflicting information
+- Policy exception
